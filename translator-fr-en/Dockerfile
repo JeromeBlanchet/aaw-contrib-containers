@@ -1,0 +1,1 @@
+FROM chritter/translator:0.5
